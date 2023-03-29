@@ -1,0 +1,46 @@
+1.A.)Algorithm: It's a series of steps required to carry out an action. It's also a set of instructions for solving a problem or accomplishing a task.
+      def fxn(k)
+          a=sum(k)
+          b=len(k)
+          c=a/b
+          print(k)
+          print(type(k))
+          print(a,b,c)
+fxn(
+
+B.)Pseudocode: It's an artificial and informal language that helps programmers develop algorithms.
+
+C.)Flowchart: it's a graphical representation of a computer program in relation to its sequence of functions
+
+D.i.)the outputs must be specified
+  ii.the inputs must be specified
+  iii.definitiess
+  iv.effectiveness
+  v. finiteness
+
+E.)a=5
+   b=10
+   c="a + b"
+   print(c)
+
+F.)BEGIN
+ NUMBER s1, s2, sum.
+ OUTPUT("Input number1:")
+ INPUT s1
+ OUTPUT("Input number2:")
+ INPUT s2
+ sum=s1+s2
+ OUTPUT sum
+ END
+
+G.)Step 1: Start
+   
+   Step 2: Declare variables num1, num2 and sum
+
+   Step 3: Read values for num1, num2
+
+   Step 4:Add num1 and num2 and assign the result to a variable sum
+
+   Step 5: Display sum
+
+   Step 6: 
